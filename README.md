@@ -1,2 +1,5 @@
 # Cyber_Tools_Playground_With_Python
-Your gateway to hands-on Python programming for cybersecurity. Explore a curated collection of beginner-friendly tools designed to elevate your Python skills while diving into practical cybersecurity concepts. 
+This is a repository for elevating my Python skills while diving into practical cybersecurity concepts.
+
+## Note
+This repository is no longer actively maintained.
